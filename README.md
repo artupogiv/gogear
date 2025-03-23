@@ -1,6 +1,6 @@
 # GoGear
 
-GoGear is an e-commerce personal project dedicated to personal tech gear for support your tech experience.
+GoGear is an e-commerce personal project dedicated to support your tech experience.
 [GoGear](https://gogear.artupogiv.com)
 
 ## Links
