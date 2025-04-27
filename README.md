@@ -17,6 +17,7 @@ Inspirations:
 
 - <https://kiys.chianyung.dev>
 - <https://tenjin.style>
+- <https://noirgear.com>
 
 ## Features
 
